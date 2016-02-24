@@ -2,9 +2,9 @@
 #Raspberry Pi, Minecraft - hide and seek
 
 #import the minecraft.py module from the minecraft directory
-import minecraft.minecraft as minecraft
+import mcpi.minecraft as minecraft
 #import minecraft block module
-import minecraft.block as block
+import mcpi.block as block
 #import sleep from the time library
 from time import sleep
 #import random module to create random number
